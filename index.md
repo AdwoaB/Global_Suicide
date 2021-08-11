@@ -95,11 +95,11 @@ According to WHO, over 800,000 deaths are due to suicides every year and this is
  
  **History of Sustance Abuse**   
  
- _Exposure to Bullying_
+*  _Exposure to Bullying_
 
 **Relationship Problems**                              
 
-_Mental Health Conditions_
+* _Mental Health Conditions_
  
 **Loss of a Loved One**                                      
 
