@@ -48,7 +48,10 @@ The least suicidal generation is Generation Z
 
 
 **Fig 4 - Suicide Trend of Top Six Countries**
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~Adwoa_B/187.embed"></iframe>
+<div>
+    <a href="https://plotly.com/~Adwoa_B/187/" target="_blank" title="Annual trend of suicide" style="display: block; text-align: center;"><img src="https://plotly.com/~Adwoa_B/187.png" alt="Annual trend of suicide" style="max-width: 100%;width: 700px;"  width="700" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <script data-plotly="Adwoa_B:187" src="https://plotly.com/embed.js" async></script>
+</div>
 
  Russia records extremely high rates of suicide but the rates start to decline after 1997. 
 The decline is evident for the other countries as well, with the exception of USA, which continues to record increasing rates of suicide in recent years.
