@@ -80,17 +80,17 @@ According to WHO, over 800,000 deaths are due to suicides every year and this is
  Suicide is multi-causal and the reasons why people commit suicide vary from person to person.
  Some reasons why people commit suicide include:
  
- **History of Sustance Abuse**   
+* **History of Sustance Abuse**   
  
- _Exposure to Bullying_
+* _Exposure to Bullying_
 
-**Relationship Problems**                              
+* **Relationship Problems**                              
 
-_Mental Health Conditions_
+* _Mental Health Conditions_
  
-**Loss of a Loved One**                                      
+* **Loss of a Loved One**                                      
 
-_Shame_
+* _Shame_
 
 
 ## SUICIDE PREVENTION
@@ -99,13 +99,13 @@ _Shame_
  
 Preventive methods include:
 
-_Strengthening Economic Support_
+* _Strengthening Economic Support_
 
-**Strengthening Access and Delivery of Suicide Care**
+* **Strengthening Access and Delivery of Suicide Care**
 
-_Creating Protective Environments_
+* _Creating Protective Environments_
 
-**Promoting Connectedness**
+* **Promoting Connectedness**
  
  
  
