@@ -68,10 +68,11 @@ The decline is evident for the other countries as well, with the exception of US
 
   
 **Fig 6 - Global Suicide per 100K population**
-  <div>
-    <a href="https://plot.ly/~Adwoa_B/173/?share_key=r26LL3bcuXKMQZGFNrA6xk" target="_blank" title="d3-world-map" style="display: block; text-align: center;"><img src="https://plot.ly/~Adwoa_B/173.png?share_key=r26LL3bcuXKMQZGFNrA6xk" alt="d3-world-map" style="max-width: 100%;width: 1000px;"  width="1000" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="Adwoa_B:173" sharekey-plotly="r26LL3bcuXKMQZGFNrA6xk" src="https://plot.ly/embed.js" async></script>
+ <div>
+    <a href="https://plotly.com/~Adwoa_B/229/?share_key=4uEyhvH1dzlHO48GLB8FNQ" target="_blank" title="Plot 229" style="display: block; text-align: center;"><img src="https://plotly.com/~Adwoa_B/229.png?share_key=4uEyhvH1dzlHO48GLB8FNQ" alt="Plot 229" style="max-width: 100%;width: 1000px;"  width="1000" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <script data-plotly="Adwoa_B:229" sharekey-plotly="4uEyhvH1dzlHO48GLB8FNQ" src="https://plotly.com/embed.js" async></script>
 </div>
+
      
 According to WHO, over 800,000 deaths are due to suicides every year and this is compatible with an age-standardized suicide rate of about 11.5 per 100,000 people - this is equivalent to someone dying of suicide every 40 seconds.
 
